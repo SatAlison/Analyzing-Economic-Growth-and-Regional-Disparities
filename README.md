@@ -34,7 +34,7 @@ The motivation for this project stems from the desire to understand global econo
 
 3. **Analyze GDP Growth Rates**
    - Identify regions with the highest and lowest average annual GDP growth rates from 1991 to 2023.
-   - Investigate GDP growth recovery in regions post-2009 and 2020 economic downturns.
+   - Investigate GDP growth recovery in regions post-2008 and 2020 economic downturns.
 
 4. **Assess Economic Disparities Across Income Levels**
    - Explore disparities in economic growth between low-income and high-income regions.
@@ -69,7 +69,7 @@ The motivation for this project stems from the desire to understand global econo
      - Analysis of historical changes in GDP per capita over past decades.
    - **GDP Growth Rates Analysis**
      - Identification of regions with the highest and lowest average GDP growth rates.
-     - Investigation of GDP growth recovery post-2009 and 2020 downturns.
+     - Investigation of GDP growth recovery post-2008 and 2020 downturns.
      - Correlation study between GDP per capita growth and GDP growth across regions.
    - **Economic Disparities by Income Levels**
      - Assessment of economic disparities between low and high-income regions.
@@ -99,7 +99,7 @@ The motivation for this project stems from the desire to understand global econo
 
 
 2. **GDP Growth Trends and Patterns**
-- **2009 Financial Crisis Impact**: The 2008 financial crisis slowed GDP growth significantly in **2009**, particularly hurting trade-dependent regions like **Sub-Saharan Africa**.
+- **2008 Financial Crisis Impact**: The 2008 financial crisis slowed GDP growth significantly in **2009**, particularly hurting trade-dependent regions like **Sub-Saharan Africa**.
 - **2020 Pandemic Impact**: The **COVID-19 pandemic** led to another major economic slowdown in **2020**. However, regions like **Latin America & Caribbean**, the **Arab World**, and **Middle East & North Africa** rebounded well thanks to effective government support.
 - **Post-Crisis Recovery**: **North America** had the strongest recovery after 2009 . Meanwhile, regions like **Africa Western and Central** faced challenges because of limited industrialization and lower foreign investment.
 
@@ -112,7 +112,7 @@ The motivation for this project stems from the desire to understand global econo
 
 4. **Income Level Growth Patterns**
 - **High-Income Regions**: Even though high-income regions have the largest GDP, they show the slowest growth rate of **2.07%**, which is typical for more developed economies.
-- **Lower-Income Regions**: Low-income regions have the highest GDP growth rates at **143.41%**, showing potential for rapid growth, but they still struggle to catch up with high-income countries.
+- **Lower-middle-Income Regions**: Low-middle-income regions have the highest GDP growth Percentage Increase of **152.26%** over the past three decades, showing potential for rapid growth, but they still struggle to catch up with high-income countries.
 
 ![avg gdp income](https://github.com/user-attachments/assets/e77c913c-d869-43be-92ac-c1a2a0faa2a4)
 
@@ -120,7 +120,7 @@ The motivation for this project stems from the desire to understand global econo
 5. **GDP Per Capita Differences**
 - **High vs. Low-Income Disparities**: High-income countries have an average GDP per capita of around **45,584 USD**, while low-income countries average only **1,974 USD**. This significant difference makes it hard for low-income regions to close the gap.
   - It will take about **139.08 years** for low-income countries to reach the current GDP average of high-income countries.
-  - Middle-income countries need approximately **45.40 years**, while upper middle-income countries have a shorter timeframe of **11.80 years** to reach high-income levels. The economic gap remains substantial.
+  - Middle-income countries need approximately **45.40 years**, while upper middle-income countries have a shorter timeframe of **11.80 years** to reach current high-income levels. The economic gap remains substantial.
 
 ![newplot (6)](https://github.com/user-attachments/assets/febbf22d-7840-4858-abce-89a9da1c09bd)
 
